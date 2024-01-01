@@ -1,0 +1,2 @@
+Import gpg key:
+curl https://volkovskiyda.github.io/volkovskiyda.gpg | gpg --import ; gpg --edit-key volkovskiyda@gmail.com trust quit
